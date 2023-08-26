@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/hibernate-search-backend-elasticsearch-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/annotations-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/auth-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/eventstream-1.0.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/http-client-spi-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/json-utils-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/metrics-spi-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/profiles-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/regions-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/sdk-core-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/slf4j-api-1.7.35.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/third-party-jackson-core-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/lib/required/utils-2.17.94.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/backend/elasticsearch/aws/hibernate-search-backend-elasticsearch-aws-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/engine/hibernate-search-engine-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/engine/hibernate-search-util-common-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm/lib/required/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm/hibernate-search-mapper-orm-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm/hibernate-search-mapper-pojo-base-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-batch-jsr352/core/lib/required/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-batch-jsr352/core/hibernate-search-mapper-orm-batch-jsr352-core-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-batch-jsr352/jberet/hibernate-search-mapper-orm-batch-jsr352-jberet-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/lib/required/avro-1.11.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/lib/required/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/lib/required/jackson-annotations-2.13.4.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/lib/required/jackson-core-2.13.4.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/lib/required/jackson-databind-2.13.4.2.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/lib/required/slf4j-api-1.7.35.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/mapper/orm-coordination-outbox-polling/hibernate-search-mapper-orm-coordination-outbox-polling-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/v5migrationhelper/hibernate-search-v5migrationhelper-engine-6.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/hibernate-search-6.1.8.Final/v5migrationhelper/hibernate-search-v5migrationhelper-orm-6.1.8.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
